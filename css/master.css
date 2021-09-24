@@ -107,7 +107,6 @@ body{
     -moz-transition: var(--main-dauration);
     -ms-transition: var(--main-dauration);
     -o-transition: var(--main-dauration);
-    -webkit-transition:--main-dauration;
 }
 .header .links .icon span:last-child {
     width: 100%;
